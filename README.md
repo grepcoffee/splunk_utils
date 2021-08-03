@@ -1,1 +1,2 @@
-# splunk_utils
+# Splunk Utils
+- Collection of common Splunk utils.
